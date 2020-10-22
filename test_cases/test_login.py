@@ -1,8 +1,4 @@
-#!/usr/bin/env python3
-#-*- coding:utf-8 -*-
-# email: wagyu2016@163.com
-# wechat: shoubian01
-# author: 王雨泽
+
 """
 1, 模块名以test开头
 2， 类以 Test 开头
