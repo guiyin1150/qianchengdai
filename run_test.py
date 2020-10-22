@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-#-*- coding:utf-8 -*-
-# email: wagyu2016@163.com
-# wechat: shoubian01
-# author: 王雨泽
 
 """
 收集测试用例: TestLoader, 加载器，加载测试用例
